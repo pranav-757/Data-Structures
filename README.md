@@ -1,2 +1,2 @@
-# Data-Structures
+# DataStructures
 algo ds, LLD etc
